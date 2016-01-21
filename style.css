@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-family: helvetica;
+}
+
+h2 {
+    text-align: center;
+    color: #334c4c;
+    font-family: helvetica;
+}
+
+h3 {
+    text-align: center;
+	color: #334c4c;
+	font-family: helvetica;
+	border-bottom: 1px solid #CCCCCC
+}
+
+body{
+padding: 0 0 0 0 ;
+}
+
+
+p{
+	display:block;
+    width: 500px; 
+    margin: 30px auto 0 auto;
+}
+
+ul li {
+    display:block;
+}
+
+.header{
+    padding: 10px 10px 10px 10px;
+    background-color: #b56663 
+}
+
+.info{
+    width: 500px;   
+    padding: 20px;
+    border: 1px solid #dddddd;
+    margin: 30px auto 0 auto;
+}
